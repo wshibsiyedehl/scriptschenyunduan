@@ -8,6 +8,10 @@ elseif a=="Chinese1233211234567"then
 
 _G.Chen=true
 
+elseif a=="suqijun233"then
+
+_G.Chen=true
+
 elseif a=="hggjjbbjjb"then
 
 _G.Chen=true
