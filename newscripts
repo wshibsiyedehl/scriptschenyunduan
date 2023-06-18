@@ -26,6 +26,10 @@ elseif a=="yaqshjd"then
 
 _G.Chen=true
 
+elseif a=="XiaogaNB"then
+
+_G.Chen=true
+
 elseif a=="qwert111treyheh"then
 
 _G.Chen=true
