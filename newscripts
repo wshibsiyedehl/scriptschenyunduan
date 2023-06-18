@@ -52,6 +52,6 @@ setclipboard("Q群:170048648")
 
  
 
-game.Players.LocalPlayer:Kick(a.."你没有被列入白名单，已自动复制群号")
+game.Players.LocalPlayer:Kick(a.."你看看能不能改？，已自动复制群号")
 
 end
