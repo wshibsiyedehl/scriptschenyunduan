@@ -1,0 +1,43 @@
+OrionLib:MakeNotification({
+
+	Name = "欢迎使用陈脚本",	Content =  "游戏名为:" .. game.GameId .. ".",
+
+	Image = "rbxassetid://7734068321",
+
+	Time = 5
+
+})
+
+local a=tostring(game.Players.LocalPlayer.Character);
+
+if a=="baiyede"then
+
+_G.Chen=true
+
+elseif a=="Chinese1233211234567"then
+
+_G.Chen=true
+
+elseif a=="hggjjbbjjb"then
+
+_G.Chen=true
+
+elseif a=="ruin1145145"then
+
+_G.Chen=true
+
+end
+
+if _G.Seven==true then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wshibsiyedehl/scripts/main/%E9%99%88%E6%83%85%E4%BB%A4/%E8%84%9A%E6%9C%AC"))()
+
+else
+
+setclipboard("Q群:170048648")
+
+ 
+
+game.Players.LocalPlayer:Kick(a.."你没有被列入白名单，已自动复制群号")
+
+end
