@@ -20,6 +20,10 @@ elseif a=="yaqshjd"then
 
 _G.Chen=true
 
+elseif a=="114nb514"then
+
+_G.Chen=true
+
 elseif a=="XiaogaNB"then
 
 _G.Chen=true
