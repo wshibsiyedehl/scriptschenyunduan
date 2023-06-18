@@ -1,13 +1,3 @@
-OrionLib:MakeNotification({
-
-	Name = "欢迎使用陈脚本",	Content =  "游戏名为:" .. game.GameId .. ".",
-
-	Image = "rbxassetid://7734068321",
-
-	Time = 5
-
-})
-
 local a=tostring(game.Players.LocalPlayer.Character);
 
 if a=="baiyede"then
